@@ -49,7 +49,7 @@ export default function AudioPlayer() {
     <div className="fixed bottom-0 left-0 right-0 bg-gradient-to-t from-[#2D1810] via-[#3D2210] to-[#2D1810] border-t-4 border-[#FF6B1A] shadow-2xl z-50">
       <audio
         ref={audioRef}
-        src="https://stream.zeno.fm/asa9nfcu0a6tv"
+        src="https://cast5.midiazdx.com.br:6890/stream"
         preload="none"
       />
 
